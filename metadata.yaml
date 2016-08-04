@@ -1,0 +1,47 @@
+_repo: Extract-from-Captain-Stormfield-s-Visit-to-Heaven_1044
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 1044/1044-h/images/covers.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Clemens, Samuel Langhorne
+    - Twain, Mark (Samuel Clemens)
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: "\"Captain Stormfield's Visit to Heaven\" is a short story written by\
+  \ American writer Mark Twain. It first appeared in print in Harper's Magazine in\
+  \ December 1907 and January 1908, and was published in book form with some revisions\
+  \ in 1909. This was the last story published by Twain during his life.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '1997-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1044'
+  wikidata: Q1152137
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages, Imaginary'
+- !lcsh 'Ship captains -- Fiction'
+- !lcsh 'Religious fiction'
+- !lcc 'PS'
+- !lcsh 'Satire'
+- !lcsh 'Heaven -- Fiction'
+- GITenberg
+title: Extract from Captain Stormfield's Visit to Heaven
+url: http://www.gutenberg.org/ebooks/1044
+wikipedia:
+- https://cs.wikipedia.org/wiki/Kapit%C3%A1n_Stormfield_na_n%C3%A1v%C5%A1t%C4%9Bv%C4%9B_v_nebi
+- https://fr.wikipedia.org/wiki/La_Visite_du_capitaine_Temp%C3%AAte_dans_le_ciel
+- https://en.wikipedia.org/wiki/Captain_Stormfield%27s_Visit_to_Heaven
+- https://it.wikipedia.org/wiki/Viaggio_in_paradiso
