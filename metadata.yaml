@@ -1,10 +1,8 @@
 _repo: Extract-from-Captain-Stormfield-s-Visit-to-Heaven_1044
-_version: 0.0.1
+_version: 0.1.0
 covers:
-- cover_type: archival
-  image_path: 1044/1044-h/images/covers.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Twain, Mark
@@ -21,6 +19,8 @@ description: "\"Captain Stormfield's Visit to Heaven\" is a short story written 
   \ December 1907 and January 1908, and was published in book form with some revisions\
   \ in 1909. This was the last story published by Twain during his life.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1044#Extract-from-Captain-Stormfield-s-Visit-to-Heaven
 gutenberg_issued: '1997-09-01'
 gutenberg_type: Text
 identifiers:
